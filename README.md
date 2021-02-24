@@ -8,7 +8,7 @@ It’s easy, Just download one of the python files and then make sure you have
 Chromedriver in "C:\Program Files (x86)" or change the PATH in the Program/Script (Python File).
 The Link-Based one will require a link, which you will find when you’re at the Enter Name/Enter game Menu.
 Example-
-![screenshot](Link-Based_Link_(Example).png)
+![screenshot](Pics/Link-Based Link (Example).png)
 ## Disclaimer
 There might be still issues as im not a profssional at creating programs. Try to solve them by yourSelf or DM me, Discord - OPstriker#3746 
 Join this first - (https://discord.gg/QTbua2Jp)
