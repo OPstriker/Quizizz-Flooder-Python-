@@ -8,6 +8,7 @@ It’s easy, Just download one of the python files and then make sure you have C
 The Link-Based one will require a link, which you will find when you’re at the Enter Name/Enter game Menu.
 ## Disclaimer
 There might be still issues as im not a profssional at creating programs. Try to solve them by yourSelf or DM me, Discord - OPstriker#3746 
+Join this first - (https://discord.gg/QTbua2Jp)
 ## Lastly 
 Hope it Works, this may require a faster computer and good internet. Also open the program multiple time to make it faster... 
 Enjoy... i will update this Soon
