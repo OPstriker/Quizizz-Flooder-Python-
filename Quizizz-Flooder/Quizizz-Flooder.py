@@ -14,7 +14,7 @@ def main():
     driver.get("https://quizizz.com/join")
 
     search = driver.find_element_by_class_name("check-room-input")
-    search.send_keys("297936")
+    search.send_keys("297936") #Enter Game Pin Here
     search.send_keys(Keys.RETURN)
 
     try: 
