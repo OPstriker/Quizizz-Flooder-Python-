@@ -11,7 +11,7 @@ Example-
 ![screenshot](/Pics/screenshot_1.png)
 ## Disclaimer
 There might be still issues as im not a profssional at creating programs. Try to solve them by yourSelf or DM me, Discord - OPstriker#3746 
-Join this first - (https://discord.gg/QTbua2Jp)
+Join this first - :/
 ## Lastly 
 Hope it Works, this may require a faster computer and good internet. Also open the program multiple time to make it faster... 
 Enjoy... i will update this Soon
